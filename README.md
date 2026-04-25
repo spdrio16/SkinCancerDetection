@@ -1,2 +1,3 @@
 # SkinCancerDetection
-Skin Cancer Detection Using CNN
+Dataset Source:
+https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000

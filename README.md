@@ -2,6 +2,8 @@
 Dataset Source:
 https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
 
+Skin Cancer Detection is a deep learning-based medical image classification system designed to identify different types of skin lesions from dermatoscopic images. It uses Convolutional Neural Networks (CNNs) and image processing techniques to analyze skin images and classify them into multiple categories of skin diseases or cancer types. The system helps in automated diagnosis support by improving early detection accuracy and assisting healthcare professionals in medical image analysis.
+
 **Tech Stack:** _Python, TensorFlow, Keras, CNN, HAM10000 Dataset, Streamlit, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn_
 
 # Project Description
